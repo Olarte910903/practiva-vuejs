@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.94715in" height="1.09963in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2087 778.7"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="739" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Century Gothic">
+		<font-face-src>
+			<font-face-name name="Century Gothic Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="739" d="M301.5 718.001l137.667 0 276.333 -718.001 -142.165 0 -56.0019 148.001 -294.333 0 -57.3335 -148.001 -142.165 0 277.999 718.001zm68.9991 -190.836l-97.3329 -247.166 194.167 0 -96.8342 247.166z"/>
+   <glyph unicode="P" horiz-adv-x="560" d="M80.999 718.001l145.168 0c78.5003,0 135.001,-7.167 169.666,-21.6681 34.6679,-14.4985 62.1663,-37.9995 82.166,-70.3333 19.9997,-32.3338 30.0022,-71.1662 30.0022,-116.5 0,-50.1665 -13.1669,-91.8343 -39.5008,-125.001 -26.1668,-33.1667 -61.8347,-56.3335 -107.001,-69.3333 -26.4984,-7.49862 -74.6649,-11.1644 -144.499,-11.1644l0 -304.001 -136.001 0 0 718.001zm136.001 -281.002l43.8323 0c34.5008,0 58.3334,2.50125 71.8346,7.3341 13.5011,4.99994 23.9997,12.9998 31.8325,24.3339 7.66828,11.3315 11.5011,24.9997 11.5011,41.1666 0,27.8325 -10.8328,48.1665 -32.5009,60.8321 -15.6656,9.50116 -44.9994,14.334 -87.6673,14.334l-38.8324 0 0 -148.001z"/>
+   <glyph unicode="V" horiz-adv-x="700" d="M27.5009 718.001l140.499 0 180.499 -510.001 184 510.001 140.001 0 -259.166 -718.001 -131.834 0 -253.999 718.001z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Century Gothic";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#9900CC}
+    .fnt0 {font-weight:bold;font-size:1084.53px;font-family:'Century Gothic'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-25.49" y="778.7"  class="fil0 fnt0">AVP</text>
+ </g>
+</svg>
